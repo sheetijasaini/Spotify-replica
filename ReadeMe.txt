@@ -1,0 +1,1 @@
+Ever since I converted the project to Visual Studio 2022 from 2019 something in the code broke and I am yet to fix it. The intended to start compiling from is Program.cs
